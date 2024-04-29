@@ -1,7 +1,7 @@
 
 import { useState } from "react";
 
-function Form({handleData}) {
+function Form({handleNewData}) {
 
     let [formData, setData] = useState({date:"", description: "", category: "", amount: ""} )
 
@@ -16,7 +16,7 @@ function Form({handleData}) {
         setData({date:"", description: "", category: "", amount: ""})
 
 
-        handleData(formData) 
+        handleNewData(formData) 
     }
 
 
