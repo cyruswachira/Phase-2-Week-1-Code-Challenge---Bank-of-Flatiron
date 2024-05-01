@@ -1,8 +1,43 @@
-# React + Vite
+# (Bank of Flatiron Website)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### Date, 2024/04/28
 
-Currently, two official plugins are available:
+#### By *CYRUS MUGO WACHIRA*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo
+[Live Demo Link](https://phase-2-week-1-code-challenge-bank-of-flatiron.vercel.app/)
+
+## Installation
+I created my own folder project using the terminal and used the visual studio code to add my html , css , js and db.json file then i pushed my project to my own github repository.
+
+## Known Bugs
+There are no known bugs.
+
+
+## Installation Requirements
+Git
+
+### Installation instruction
+```
+Git clone https://github.com/cyruswachira/Phase-2-Week-1-Code-Challenge---Bank-of-Flatiron.git
+
+```
+
+### Running the Application
+```
+
+Open the index.html file in your browser.
+```
+
+## Technologies used
+HTML
+CSS
+Bootstrap
+Github
+Javascript
+
+## Support and contact details
+https://github.com/cyruswachira
+
+### License
+Copyright (c) 2024 **CYRUS MUGO WACHIRA**
